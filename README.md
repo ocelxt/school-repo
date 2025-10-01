@@ -1,2 +1,3 @@
 # school-repo
-à retravailler
+
+Todo : Structure
